@@ -13,4 +13,5 @@ pymysql
 sentence-transformers
 chromadb
 ipykernel
+cryptography
 pydantic>=2.0
