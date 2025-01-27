@@ -1,0 +1,16 @@
+langchain
+langchain-community
+langchain-openai
+langchain-huggingface
+python-dotenv
+streamlit
+tiktoken
+faiss-cpu
+protobuf
+langchain_experimental
+mysql-connector-python
+pymysql
+sentence-transformers
+chromadb
+ipykernel
+pydantic==1.10.12
