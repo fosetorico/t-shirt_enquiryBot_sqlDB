@@ -13,4 +13,4 @@ pymysql
 sentence-transformers
 chromadb
 ipykernel
-pydantic==1.10.12
+pydantic>=2.0
