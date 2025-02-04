@@ -15,6 +15,7 @@ This project is an AI-driven chatbot that allows users to query t-shirt inventor
 #### Clone the repository
 ```
 git clone https://github.com/fosetorico/t-shirt_enquiryBot_sqlDB.git
+```
 
 #### Create a conda environment after opening the repository
 ```
