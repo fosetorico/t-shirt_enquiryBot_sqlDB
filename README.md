@@ -12,12 +12,12 @@ This project is an AI-driven chatbot that allows users to query t-shirt inventor
 
 ## Steps to run this Project
 
-#### Clone the repository
+#### 1. Clone the repository
 ```
 git clone https://github.com/fosetorico/t-shirt_enquiryBot_sqlDB.git
 ```
 
-#### Create a conda environment after opening the repository
+#### 2. Create a conda environment after opening the repository
 ```
 conda create -n your-chosen-name python=3.10 -y
 ```
@@ -26,11 +26,13 @@ conda create -n your-chosen-name python=3.10 -y
 conda activate your-chosen-name
 ```
 
-#### install the requirements
+#### 3. Rename the '.env.example' file to '.env' and insert your OpenAI key and SQL key
+
+#### 4. Install the requirements
 ```
 pip install -r requirements.txt
 ```
 
-#### Finally run the following command
+#### 5. Finally run the following command
 ```
 streamlit run app.py
